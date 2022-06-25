@@ -1,6 +1,6 @@
 import React from "react"
 import './about.css'
-import ME from '../../assets/me.png'
+import ME from '../../assets/passport_photo.png'
 import {FaAward} from 'react-icons/fa'
 import {FiUsers} from 'react-icons/fi'
 import {VscFolderLibrary} from 'react-icons/vsc'
@@ -30,7 +30,7 @@ const About = () => {
                         <article className="about__card">
                             <FiUsers className="about__icon"/>
                             <h5>Clients</h5>
-                            <small>0</small>
+                            <small>1</small>
                         </article>
 
                         <article className="about__card">
