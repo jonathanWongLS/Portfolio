@@ -73,6 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Referenced YouTube video : [https://youtu.be/G-Cr00UYokU](https://youtu.be/G-Cr00UYokU)
 
 <br>
+
 **Day 1** (18 June 2022 --> Stopped at 27:50) :
 <li> Create React app
 <li> Managing and Creating Files and Folders
