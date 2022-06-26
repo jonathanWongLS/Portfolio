@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 <hr>
-Referenced YouTube video : [https://youtu.be/G-Cr00UYokU](https://youtu.be/G-Cr00UYokU)
+Referenced YouTube video : https://youtu.be/G-Cr00UYokU
 
 <br>
 
@@ -90,3 +90,8 @@ Referenced YouTube video : [https://youtu.be/G-Cr00UYokU](https://youtu.be/G-Cr0
 <li> Implemented floating navigation bar
 <li> Managed navigation bar states using <b>useState</b> hook
 <li> Cards describing career achievements and basic info about me
+
+**Day 4** (25 June 2022 --> Stopped at 2:04:14) : 
+<li> Cards describing my experience in the tech field  
+<li> Cards describing the services I can offer
+
