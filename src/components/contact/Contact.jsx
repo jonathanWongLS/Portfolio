@@ -17,8 +17,8 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineEmail/>
             <h4>Email</h4>
-            <h5>email@gmail.com</h5>
-            <a href="mailto:email@gmail.com">Send a message</a>
+            <h5>wonglsjonathan01@gmail</h5>
+            <a href="mailto:wonglsjonathan01@gmail.com">Send a message</a>
           </article>
 
           <article className="contact__option">
@@ -37,7 +37,12 @@ const Contact = () => {
         </div>
         {/* END OF CONTACT OPTIONS */}
 
-        <form action=""></form>
+        <form action="">
+          <input type="text" name='name' placeholder='Your Full Name' required />
+          <input type="email" name='email' placeholder='Your Email' required/>
+          <input type="message" rows="7" placeholder='Your Message' required />
+          <button type='submit' className='btn btn-primary'>Send Message</button>
+        </form>
 
       </div>
     </section>
