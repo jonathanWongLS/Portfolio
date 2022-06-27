@@ -90,8 +90,10 @@ Referenced YouTube video : https://youtu.be/G-Cr00UYokU
 <li> Implemented floating navigation bar
 <li> Managed navigation bar states using <b>useState</b> hook
 <li> Cards describing career achievements and basic info about me
+<br></br>
 
 **Day 4** (25 June 2022 --> Stopped at 2:04:14) : 
 <li> Cards describing my experience in the tech field  
 <li> Cards describing the services I can offer
+<br></br>
 
