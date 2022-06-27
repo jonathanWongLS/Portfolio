@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jonathanwlsportfolio/static/css/main.2fb2a04a.css",
+    "main.js": "/jonathanwlsportfolio/static/js/main.3649251c.js",
+    "static/media/heyzeus-escribo-XbGvZpDR9gk-unsplash.jpg": "/jonathanwlsportfolio/static/media/heyzeus-escribo-XbGvZpDR9gk-unsplash.a1032681961deb12ceb1.jpg",
+    "static/media/project2.png": "/jonathanwlsportfolio/static/media/project2.4b813aa882931f62a930.png",
+    "static/media/project4.png": "/jonathanwlsportfolio/static/media/project4.fce9ce15ab9ad109311e.png",
+    "static/media/project1.png": "/jonathanwlsportfolio/static/media/project1.f435f3e970186197d7ae.png",
+    "static/media/project3.png": "/jonathanwlsportfolio/static/media/project3.2cde8b10a6ee6c13c8a2.png",
+    "static/media/JonathanWongLeongShan_Resume.pdf": "/jonathanwlsportfolio/static/media/JonathanWongLeongShan_Resume.45622becdf21d142c731.pdf",
+    "static/media/passport_photo.png": "/jonathanwlsportfolio/static/media/passport_photo.52a0988a7056f5f425ba.png",
+    "static/media/coming_soon.jpg": "/jonathanwlsportfolio/static/media/coming_soon.c5479f609e304554a4f1.jpg",
+    "static/media/me.png": "/jonathanwlsportfolio/static/media/me.97ca7a4e669aeaa0b5a9.png",
+    "index.html": "/jonathanwlsportfolio/index.html",
+    "main.2fb2a04a.css.map": "/jonathanwlsportfolio/static/css/main.2fb2a04a.css.map",
+    "main.3649251c.js.map": "/jonathanwlsportfolio/static/js/main.3649251c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fb2a04a.css",
+    "static/js/main.3649251c.js"
+  ]
+}
