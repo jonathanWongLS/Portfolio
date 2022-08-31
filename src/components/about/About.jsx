@@ -30,17 +30,19 @@ const About = () => {
                         <article className="about__card">
                             <FiUsers className="about__icon"/>
                             <h5>Clients</h5>
-                            <small>1</small>
+                            <small>0</small>
                         </article>
 
                         <article className="about__card">
                             <VscFolderLibrary className="about__icon"/>
                             <h5>Projects</h5>
-                            <small>2 Projects</small>
+                            <small>4 Projects</small>
                         </article>
                     </div>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae enim atque facilis, pariatur ad exercitationem impedit, provident commodi necessitatibus vero sunt quia illo similique perferendis eius porro, officia consequatur. Harum.
+                        Highly motivated and inspired to continuously sharpen my skills and grow professionally in data science and other data related skills such as machine learning and data engineering. 
+                        Always ready to develop my programming and soft skills in internship training and online courses, working with other like-minded individuals in inspiring the world on how influential Big Data is in developing accurate theories and putting into place more effective solutions for countless problems globally. 
+                        Extremely keen on working in teams, collaborating and interacting with team members in brainstorming creative and innovative solutions, thus encouraging the birth of practical and profitable ideas.
                     </p>
 
                     <a href="#contact" className="btn btn-primary">
