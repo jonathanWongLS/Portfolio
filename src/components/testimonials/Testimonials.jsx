@@ -1,9 +1,6 @@
 import React from 'react'
 import './testimonials.css'
 import AVATAR1 from '../../assets/coming_soon.jpg'
-import AVATAR2 from '../../assets/coming_soon.jpg'
-import AVATAR3 from '../../assets/coming_soon.jpg'
-import AVATAR4 from '../../assets/coming_soon.jpg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -17,25 +14,14 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVATAR1,
-    name: '...',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti ipsum necessitatibus iste explicabo mollitia eos assumenda tempore nesciunt, labore veniam rem, aut fugiat ratione obcaecati fuga, praesentium doloribus accusantium.'
+    name: '. . .',
+    review: 'Please be patient, gaining experience . . .'
   },
   {
-    avatar: AVATAR2,
+    avatar: AVATAR1,
     name: '...',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti ipsum necessitatibus iste explicabo mollitia eos assumenda tempore nesciunt, labore veniam rem, aut fugiat ratione obcaecati fuga, praesentium doloribus accusantium.'
-  },
-  {
-    avatar: AVATAR3,
-    name: '...',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti ipsum necessitatibus iste explicabo mollitia eos assumenda tempore nesciunt, labore veniam rem, aut fugiat ratione obcaecati fuga, praesentium doloribus accusantium.'
-  },
-  {
-    avatar: AVATAR4,
-    name: '...',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt deleniti ipsum necessitatibus iste explicabo mollitia eos assumenda tempore nesciunt, labore veniam rem, aut fugiat ratione obcaecati fuga, praesentium doloribus accusantium.'
+    review: 'Please be patient, gaining experience . . .'
   }
-
 ]
 
 const Testimonials = () => {
