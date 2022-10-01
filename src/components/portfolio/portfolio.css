@@ -32,6 +32,16 @@
     margin-bottom: 1.2rem;
 }
 
+.subtitle {
+    color: var(--color-light);
+}
+
+.portfolio_title_subtitle {
+    position: relative;
+    bottom: 0px;
+
+}
+
 /*================================== MEDIA QUERIES (MEDIUM DEVICES) ==================================*/
 
 @media screen and (max-width: 1024px) {
