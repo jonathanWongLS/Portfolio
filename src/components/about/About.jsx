@@ -40,9 +40,12 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        Penultimate undergraduate pursuing a Bachelor in Software Engineering (Honours) seeking a position as an intern in the front-end development field. 
-                        <br/><br/>Around 2 years of experience in designing and implementing user interactive websites with HTML, CSS and JavaScript (ReactJS). 
-                        <br/><br/>Highly motivated and inspired to continuously sharpen my skills and grow professionally in front-end Developing and other Web Development related skills such as Backend Development and UI/UX.
+                        A motivated and passionate, penultimate year Software Engineering undergraduate with the ability to equip new
+                        skills swiftly.
+                        <br></br>
+                        <br></br>Extremely proactive when collaborating in a team to brainstorm creative and innovative solutions which encourage the scaling of businesses. 
+                        <br/><br/>Has basic practical experience with the designing and implementation of user interactive websites with HTML, CSS and JavaScript. 
+                        <br/><br/>Highly motivated and inspired to continuously sharpen my skills and grow professionally in front-end development and other web development related skills such as Backend Development and UI/UX.
                         <br/><br/>Always ready to develop my programming and soft skills in internship training and projects.
                         <br/><br/>Extremely keen on working effectively in teams, collaborating and interacting with team members in brainstorming creative and innovative solutions, thus encouraging the birth of practical and profitable ideas.
                     </p>
