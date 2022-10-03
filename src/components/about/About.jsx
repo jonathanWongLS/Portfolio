@@ -42,12 +42,10 @@ const About = () => {
                     <p>
                         A motivated and passionate, penultimate year Software Engineering undergraduate with the ability to equip new
                         skills swiftly.
-                        <br></br>
-                        <br></br>Extremely proactive when collaborating in a team to brainstorm creative and innovative solutions which encourage the scaling of businesses. 
-                        <br/><br/>Has basic practical experience with the designing and implementation of user interactive websites with HTML, CSS and JavaScript. 
+                        <br/><br/>Has basic practical experience with the designing and implementation of user interactive websites with HTML, CSS, and JavaScript as well as Java and Vaadin. 
                         <br/><br/>Highly motivated and inspired to continuously sharpen my skills and grow professionally in front-end development and other web development related skills such as Backend Development and UI/UX.
                         <br/><br/>Always ready to develop my programming and soft skills in internship training and projects.
-                        <br/><br/>Extremely keen on working effectively in teams, collaborating and interacting with team members in brainstorming creative and innovative solutions, thus encouraging the birth of practical and profitable ideas.
+                        <br/><br/>Extremely proactive when collaborating in a team to brainstorm creative and innovative solutions which encourage the scaling of businesses.
                     </p>
 
                     <a href="#contact" className="btn btn-primary">
