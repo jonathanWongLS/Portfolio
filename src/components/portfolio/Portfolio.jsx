@@ -11,7 +11,7 @@ const data = [
     title: 'Covid-19 Data Visualisation Website',
     subtitle: 'A Team Based University Project',
     github: null,
-    link: 'https://colab.research.google.com/drive/1odPkmYsw4gdmr3M_KZAT1W4E0Aqv6jOI?usp=sharing'
+    link: 'https://datatech-techta.herokuapp.com/'
   },
   {
     id: 2,
@@ -50,22 +50,23 @@ const Portfolio = () => {
             }
             console.log(github);
             return(
-            <article key={id} className="portfolio__item">
-              <div className="portfolio__item-image">
-                <img src={image} alt={title} />
-              </div>
-              <div className='portfolio_title_subtitle'>
-                  <h3>
-                  {title}
-                  <h6 className='subtitle'>{subtitle}</h6>
-                </h3>
-                <div className="portfolio__item-cta">
-                  {github_content}
-                  <a href={link} className='btn btn-primary' target="_blank" rel='noreferrer'>Website</a>
+              <article key={id} className="portfolio__item">
+                
+                <div className="portfolio__item-image">
+                  <img src={image} alt={title} />
                 </div>
-              </div>
-              
-            </article>
+                <div className='portfolio_title_subtitle'>
+                    <h3>
+                    {title}
+                    <h6 className='subtitle'>{subtitle}</h6>
+                  </h3>
+                  <div className="portfolio__item-cta">
+                    {github_content}
+                    <a href={link} className='btn btn-primary' target="_blank" rel='noreferrer'>Website</a>
+                  </div>
+                </div>
+                
+              </article>
             )
           }) 
         }
