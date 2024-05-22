@@ -1,6 +1,6 @@
 import React from "react"
 import './about.css'
-import ME from '../../assets/passport_photo.png'
+import ME from '../../assets/me_about.png'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -24,27 +24,27 @@ const About = () => {
                         <article className="about__card">
                             <FaAward className="about__icon" />
                             <h5>Experience</h5>
-                            <small>3rd Year Bachelor of Software Engineering (Honours) Student</small>
+                            <small>Bachelor of Software Engineering (Honours) Graduate</small>
                         </article>
 
                         <article className="about__card">
                             <FiUsers className="about__icon" />
                             <h5>Clients</h5>
-                            <small>0</small>
+                            <small>3 Clients</small>
                         </article>
 
                         <article className="about__card">
                             <VscFolderLibrary className="about__icon" />
                             <h5>Projects</h5>
-                            <small>3 Projects</small>
+                            <small>6 Projects</small>
                         </article>
                     </div>
                     <p>
-                        A motivated and passionate, penultimate year Software Engineering undergraduate with the ability to equip new
+                        A motivated and passionate, Software Engineering graduate with the ability to equip new
                         skills swiftly.
-                        <br/><br/>Has basic practical experience with the designing and implementation of user interactive websites with HTML, CSS, and JavaScript as well as Java and Vaadin. 
-                        <br/><br/>Highly motivated and inspired to continuously sharpen my skills and grow professionally in front-end development and other web development related skills such as Backend Development and UI/UX.
-                        <br/><br/>Always ready to develop my programming and soft skills in internship training and projects.
+                        <br/><br/>Has basic practical experience with the designing and implementation of user interactive websites with HTML, CSS, JavaScript, ReactJS as well as Java, Spring Boot and Vaadin. 
+                        <br/><br/>Highly motivated and inspired to continuously sharpen my skills and grow professionally in front-end development, back-end development and Software Engineering related skills.
+                        <br/><br/>Always ready to develop my programming and soft skills in internship training and applicable projects.
                         <br/><br/>Extremely proactive when collaborating in a team to brainstorm creative and innovative solutions which encourage the scaling of businesses.
                     </p>
 
