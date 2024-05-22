@@ -12,7 +12,6 @@ const Experience = () => {
         <div className="experience__datascience">
           <h3>Front-end Development</h3>
           <div className="experience__content">
-
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
@@ -48,8 +47,8 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>React</h4>
-                <small className='text-light'>Basic</small>
+                <h4>ReactJS</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             
@@ -68,21 +67,12 @@ const Experience = () => {
                 <small className='text-light'>Basic</small>
               </div>
             </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Java</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-            
           </div>
         </div>
         {/* END OF Web Development*/}
 
         <div className="experience__datavisualisation">
-          <h3>Data Science</h3>
+          <h3>Back-end Development</h3>
           <div className="experience__content">
             
             <article className='experience__details'>
@@ -90,6 +80,14 @@ const Experience = () => {
               <div>
                 <h4>Oracle SQL</h4>
                 <small className='text-light'>Intermediate</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>PostgreSQL</h4>
+                <small className='text-light'>Basic</small>
               </div>
             </article>
             
@@ -120,7 +118,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Jupyter Notebook</h4>
+                <h4>Java</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
             </article>
@@ -128,15 +126,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Pandas</h4>
-                <small className='text-light'>Intermediate</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Numpy</h4>
+                <h4>Spring Boot</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
@@ -144,15 +134,7 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
-                <h4>Scikit-learn</h4>
-                <small className='text-light'>Basic</small>
-              </div>
-            </article>
-
-            <article className='experience__details'>
-              <BsPatchCheckFill className='experience__details-icon' />
-              <div>
-                <h4>Microsoft Excel</h4>
+                <h4>Vaadin</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
