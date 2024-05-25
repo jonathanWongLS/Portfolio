@@ -4,6 +4,7 @@ import IMG1 from '../../assets/covid19.png'
 import IMG2 from '../../assets/hello_image.jpg'
 import IMG3 from '../../assets/jason-goodman-Oalh2MojUuk-unsplash.jpg'
 import IMG4 from "../../assets/aurelien-thomas-Ms9sjaDRW9A-unsplash.jpg"
+import IMG5 from "../../assets/s-o-c-i-a-l-c-u-t-hwy3W3qFjgM-unsplash.jpg"
 import RESTRICTEDIMG from '../../assets/julia-fiander-gbJAejsWnZ4-unsplash.jpg'
 
 const data = [
@@ -26,7 +27,7 @@ const data = [
   },
   {
     id: 3,
-    image: IMG1,
+    image: IMG4,
     title: 'Covid-19 Testing Registration System',
     subtitle: 'Team Based University Project',
     github: "https://github.com/jonathanWongLS/Covid-19-Registration-FIT3077",
@@ -34,7 +35,7 @@ const data = [
   },
   {
     id: 4,
-    image: IMG4,
+    image: IMG1,
     title: 'Covid-19 Data Visualisation Website',
     subtitle: 'Team Based University Project',
     github: "https://github.com/jonathanWongLS/techta",
@@ -42,7 +43,7 @@ const data = [
   },
   {
     id: 5,
-    image: IMG4,
+    image: IMG5,
     title: 'Recipe Nutrition Extractor (NDA Signed)',
     subtitle: 'Team Based University Project',
     github: null,
