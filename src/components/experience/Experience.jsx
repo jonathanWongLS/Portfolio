@@ -9,7 +9,7 @@ const Experience = () => {
       <h2>My Experience</h2>
 
       <div className="container experience__container">
-        <div className="experience__datascience">
+        <div className="experience__frontend">
           <h3>Front-end Development</h3>
           <div className="experience__content">
             <article className='experience__details'>
@@ -69,9 +69,9 @@ const Experience = () => {
             </article>
           </div>
         </div>
-        {/* END OF Web Development*/}
+        {/* END OF Front-end Development*/}
 
-        <div className="experience__datavisualisation">
+        <div className="experience__backend">
           <h3>Back-end Development</h3>
           <div className="experience__content">
             
@@ -87,6 +87,14 @@ const Experience = () => {
               <BsPatchCheckFill className='experience__details-icon' />
               <div>
                 <h4>PostgreSQL</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>H2 Database</h4>
                 <small className='text-light'>Basic</small>
               </div>
             </article>
@@ -139,8 +147,58 @@ const Experience = () => {
               </div>
             </article>
 
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>JUnit</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
           </div>
         </div>
+        {/* END OF Back-end Development*/}
+
+        <div className="experience__devops">
+          <h3>DevOps</h3>
+          <div className="experience__content">
+            
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>AWS EC2 (Elastic Compute Cloud)</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>AWS S3 (Simple Storage Service)</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+            
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>AWS RDS (Relational Database Service)</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsPatchCheckFill className='experience__details-icon' />
+              <div>
+                <h4>Docker</h4>
+                <small className='text-light'>Basic</small>
+              </div>
+            </article>
+
+          </div>
+        </div>
+        {/* END OF DevOps */}
+
       </div>
     </section>
   )
