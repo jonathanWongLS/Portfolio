@@ -10,8 +10,8 @@ const data = [
   {
     id: 1,
     image: RESTRICTEDIMG,
-    title: '',
-    subtitle: 'A Freelance Project',
+    title: 'Leisure Activities Landing Page',
+    subtitle: 'Freelance Project',
     github: null,
     link: null,
     confidential: true    
@@ -20,7 +20,7 @@ const data = [
     id: 2,
     image: IMG3,
     title: 'TaskSwift: A Project Management Software',
-    subtitle: 'A Personal Project',
+    subtitle: 'Personal Project',
     github: "https://github.com/jonathanWongLS/TaskSwift",
     link: "http://taskswift-frontend.s3-website-ap-southeast-1.amazonaws.com"
   },
@@ -28,7 +28,7 @@ const data = [
     id: 3,
     image: IMG1,
     title: 'Covid-19 Testing Registration System',
-    subtitle: 'A Team Based University Project',
+    subtitle: 'Team Based University Project',
     github: "https://github.com/jonathanWongLS/Covid-19-Registration-FIT3077",
     link: null
   },
@@ -36,7 +36,7 @@ const data = [
     id: 4,
     image: IMG4,
     title: 'Covid-19 Data Visualisation Website',
-    subtitle: 'A Team Based University Project',
+    subtitle: 'Team Based University Project',
     github: "https://github.com/jonathanWongLS/techta",
     link: null
   },
@@ -44,7 +44,7 @@ const data = [
     id: 5,
     image: IMG4,
     title: 'Recipe Nutrition Extractor (NDA Signed)',
-    subtitle: 'A Team Based University Project',
+    subtitle: 'Team Based University Project',
     github: null,
     link: null
   },
@@ -52,7 +52,7 @@ const data = [
     id: 6,
     image: IMG2,
     title: 'My Portfolio',
-    subtitle: 'A Personal Project',
+    subtitle: 'Personal Project',
     github: 'https://github.com/jonathanWongLS/Portfolio',
     link: 'https://portfolio-jonathan.vercel.app'
   },
@@ -89,7 +89,7 @@ const Portfolio = () => {
               confidential_sign = null;
             } 
             else {
-              confidential_sign = <bold style={{color: "red"}}>Confidential</bold>
+              confidential_sign = <bold>(Confidential)</bold>
             }
 
             console.log(github);
