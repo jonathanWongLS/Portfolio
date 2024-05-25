@@ -9,7 +9,6 @@ const Services = () => {
       <h2>Services</h2>
 
       <div className="container services__container">
-        <div></div>
 
         <article className="service">
           <div className="service__head">
@@ -69,7 +68,6 @@ const Services = () => {
           </ul>
         </article>
         {/*END OF WEB DEVELOPMENT*/}
-        <div></div>
       </div>
     </section>
   )
